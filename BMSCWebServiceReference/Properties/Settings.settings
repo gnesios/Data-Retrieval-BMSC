@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BMSCWebServiceReference.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BMSCWebServiceReference_BANXWebReference_Lists" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sps2013:4940/_vti_bin/Lists.asmx</Value>
+    </Setting>
+    <Setting Name="BMSCWebServiceReference_BMSCWebReference_Lists" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sps2013:41353/_vti_bin/Lists.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
